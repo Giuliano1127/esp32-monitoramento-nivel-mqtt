@@ -37,5 +37,5 @@ O código-fonte está no arquivo `codigo.ino`.
 
 ## Como usar
 - Com o IP de onde está o node-red.
-- acessar com o link no navegar utilizando por exemplo (http://<IP-do-computador>:1880/ui)
+- acessar com o link no navegar utilizando por exemplo (http://IP-do-computador:1880/ui)
 
